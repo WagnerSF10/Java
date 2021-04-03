@@ -1,3 +1,11 @@
+/*
+* Wagner de Souza França - FATEC
+*
+* Um cliente de um banco tem um saldo positivo de R$ 500,00. Fazer
+* um algoritmo que leia um cheque que entrou e calcule o saldo, mostrando
+* (escrevendo) o saldo na tela.
+*/
+
 import javax.swing.*;
 
 public class saldo {
